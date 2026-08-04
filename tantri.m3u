@@ -3,6 +3,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="tvjtm" group-title="CHANNEL | TVRI GROUP ",TVRI JATIM 
 https://tencent-css-live.byteplaycdn.com/vos/DASH/tvrijatim/manifest.mpd?encp=9CO6-H9PQJsG7MnyJ6XdHA&uid=&expp=1785853281
+
+EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="tvjtm" group-title="CHANNEL | TVRI GROUP" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-logo="" tvg-logo="", TVRI JATIM 
+https://tencent-css-live.byteplaycdn.com/vos/DASH/tvrijatim/manifest.mpd?encp=9CO6-H9PQJsG7MnyJ6XdHA&uid=&expp=1785853281
+
 #EXTINF:-1 tvg-id="tvjg" group-title="CHANNEL | TVRI GROUP ",TVRI JOGJA
 https://tencent-css-live.byteplaycdn.com/vos/DASH/tvrijogja/manifest.mpd?encp=PgcJ6cQmq2Nkx5x6KuBApg&uid=&expp=1785853491
 
