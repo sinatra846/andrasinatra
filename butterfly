@@ -2,13 +2,7 @@
 #EXTINF:-1 group-logo="https://github.com/sinatra846/andrasinatra/blob/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg",VOD STREAM
 
 #EXTM3U
-#EXTINF:-1 tvg-id="kpa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuCU-uLlYGl4MuujE-QH6pcqh96fj6tB6ijHl8zKelrg&s=10" group-title="VOD | KIDS ANIMATION",KUNG FU PANDA
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Kung%20Fu%20Panda.m3u8
-#EXTINF:-1 tvg-id="smgm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSev1uW0S0fx0iu4T9uMmlyPdqftKugOJeFS0fHUpm9Dg&s=10" group-title="VOD | KIDS ANIMATION",SUPER MARIO GALAXY MOVIE
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20Super%20Mario%20Galaxy%20Movie.m3u8
-#EXTINF:-1 tvg-id="swp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlKF-cLRVpdrnqnCRnAcOQxvvF8Jr-whFQNgcPM5A46Q&s=10" group-title="VOD | KIDS ANIMATION",SWAPPED
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/swp.m3u8
-#EXTINF:-1 tvg-id="tloatla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfLwEJBb_dOEp5JQaPX4GJQRmq2Fem9SsEjUZWAbO6FA&s" group-title="VOD | KIDS ANIMATION",THE LEGEND OF AANG: THE LAST AIRBENDER
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20Legend%20of%20Aang_%20The%20Last%20Airbender%20(1).m3u8
-#EXTINF:-1 tvg-id="nbd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNVbT5w8bDF4ZUEZxhEvg5v0Eeb6DcLAjj0SwfaZeUAA&s=10" group-title="VOD | KIDS ANIMATION",NOBODY
-https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Nobody.m3u8
+#EXTINF:-1 tvg-id="mutiny" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/08/film-mutiny-2026-lk21.jpg" group-title="VOD | ACTION MOVIE",Mutiny
+https://stream.playcdn.de/playlist/f076a7a7d091ec197c1bfb71d211183d/1/480.m3u8?x=1
+#EXTINF:-1 tvg-id="mrcy" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/02/film-mercy-2026-lk21.jpg" group-title="VOD | ACTION MOVIE",Mercy
+https://edge1-frankfurt-sprintcdn.owphbf24.com/hls2/05/10818/cu9b5416uyyz_x/index-v1-a1.m3u8?t=hdMMXSXob2KTSg-FUA9oZ_zHLvGAGSJHiv6V9k1B05A&s=1787267737&e=10800&f=54091422&srv=1050&asn=&sp=5500&p=0
