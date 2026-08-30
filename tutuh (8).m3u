@@ -41,6 +41,10 @@ https://pixeldrain.com/api/file/hd5FBv3s?download
 https://pixeldrain.com/api/file/jADzGeNN?download
 #EXTINF:-1 tvg-id="auto.ashop" tvg-logo="https://filmfare.wwmindia.com/photogallery/2024/jan/ashopforkillers91705480891.jpg" group-title="A SHOP FOR KILLERS",SEASON 2 EPS 6
 https://pixeldrain.com/api/file/kQFeoFmM?download
+#EXTINF:-1 tvg-id="auto.ashop" tvg-logo="https://filmfare.wwmindia.com/photogallery/2024/jan/ashopforkillers91705480891.jpg" group-title="A SHOP FOR KILLERS",SEASON 2 EPS 7
+https://pixeldrain.com/api/file/oY9qfLa3?download
+#EXTINF:-1 tvg-id="auto.ashop" tvg-logo="https://filmfare.wwmindia.com/photogallery/2024/jan/ashopforkillers91705480891.jpg" group-title="A SHOP FOR KILLERS",SEASON 2 EPS 8
+https://pixeldrain.com/api/file/Cv2bcfcL?download
 
 =========================
 
@@ -67,6 +71,7 @@ https://pixeldrain.com/api/file/QADG8q3H?download
 ####EXTINF:-1 tvg-id="auto.teach" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbAC0zeQ6ST_I96jisuEpJRL8d9uKIKsvRsmesy8F_J8pXjaoIJIGbgsQ&s=10" group-title="TEACH YOU A LESSON",EPS 10
 https://pixeldrain.com/api/file/VZKxeQ1M?download
 
+
 =========================
 
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/V_KOREAN.png?raw=true",VOD DRAMA KOREA
@@ -85,6 +90,26 @@ https://pixeldrain.com/api/file/zsMT3GDz?download
 https://pixeldrain.com/api/file/Q3fJti13?download
 #EXTINF:-1 tvg-id="auto.teach" tvg-logo="https://images.plex.tv/photo?size=large-1280&scale=1&url=https:%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fq9JbxpxOFx4SJtsV05LE65I80dW.jpg" group-title="MERCY FOR NONE",EPS 7
 https://pixeldrain.com/api/file/fGs1wPXV?download
+
+=========================
+
+###EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/V_KOREAN.png?raw=true",VOD DRAMA KOREA
+
+###EXTINF:-1 tvg-id="auto.teach" tvg-logo="https://images.plex.tv/photo?size=large-1280&scale=1&url=https:%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fq9JbxpxOFx4SJtsV05LE65I80dW.jpg" group-title="MERCY FOR NONE",EPS 7
+https://pixeldrain.com/api/file/fGs1wPXV?download
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
