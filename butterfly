@@ -188,4 +188,46 @@ https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb674
 https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="CBS.us@WPEC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/KYES-TV_2017_Logo.png" group-title="General",CBS 12 West Palm Beach FL (WPEC) (1080p)
 https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="CBS.us@KEYETV" tvg-logo="https://upload.wikimedia.org/w
+
+
+
+=====================================================
+
+
+
+#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER1.png", UK| HUB PREMIER 1 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1032529.m3u8
+#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER2.png", UK| HUB PREMIER 2 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1032528.m3u8
+#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER2.png", UK| HUB PREMIER 2 UHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1032518.m3u8
+#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER3.png", UK| HUB PREMIER 3 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1032527.m3u8
+#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER4.png", UK| HUB PREMIER 4 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1032526.m3u8
+#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER5.png", UK| HUB PREMIER 5 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1032525.m3u8
+#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER6.png", UK| HUB PREMIER 6 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1032524.m3u8
+#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER7.png", UK| HUB PREMIER 7 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1032523.m3u8
+#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER8.png", UK| HUB PREMIER 8 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1032522.m3u8
+#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER9.png", UK| HUB PREMIER 9 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1032521.m3u8
+#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER10.png", UK| HUB PREMIER 10 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1032520.m3u8
+#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER11.png", UK| HUB PREMIER 11 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1032519.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
