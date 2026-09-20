@@ -195,89 +195,31 @@ https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER1.png", UK| HUB PREMIER 1 FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1032529.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER2.png", UK| HUB PREMIER 2 FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1032528.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER2.png", UK| HUB PREMIER 2 UHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1032518.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER3.png", UK| HUB PREMIER 3 FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1032527.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER4.png", UK| HUB PREMIER 4 FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1032526.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER5.png", UK| HUB PREMIER 5 FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1032525.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER6.png", UK| HUB PREMIER 6 FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1032524.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER7.png", UK| HUB PREMIER 7 FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1032523.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER8.png", UK| HUB PREMIER 8 FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1032522.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER9.png", UK| HUB PREMIER 9 FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1032521.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER10.png", UK| HUB PREMIER 10 FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1032520.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER11.png", UK| HUB PREMIER 11 FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1032519.m3u8
+#EXTINF:-1 group-title="EPL" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 1.png", ┃UK┃ HUB PREMIER 2 4K UHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1314088.m3u8
+#EXTINF:-1 group-title=EPL" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 1.png", ┃UK┃ HUB PREMIER 1 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1314077.m3u8
+#EXTINF:-1 group-title="EPL" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 2.png", ┃UK┃ HUB PREMIER 2 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1314078.m3u8
+#EXTINF:-1 group-title="EPL" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 3.png", ┃UK┃ HUB PREMIER 3 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1314079.m3u8
+#EXTINF:-1 group-title="EPL" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 4.png", ┃UK┃ HUB PREMIER 4 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1314080.m3u8
+#EXTINF:-1 group-title="EPL" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 5.png", ┃UK┃ HUB PREMIER 5 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1314081.m3u8
+#EXTINF:-1 group-title="EPL" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 6.png", ┃UK┃ HUB PREMIER 6 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1314082.m3u8
+#EXTINF:-1 group-title="EPL" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 7.png", ┃UK┃ HUB PREMIER 7 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1314083.m3u8
+#EXTINF:-1 group-title="EPL" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 8.png", ┃UK┃ HUB PREMIER 8 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1314084.m3u8
+#EXTINF:-1 group-title="EPL" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 9.png", ┃UK┃ HUB PREMIER 9 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1314085.m3u8
+#EXTINF:-1 group-title="EPL" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 10.png", ┃UK┃ HUB PREMIER 10 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1314086.m3u8
+#EXTINF:-1 group-title="EPL" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 11.png", ┃UK┃ HUB PREMIER 11 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1314087.m3u8
 
-=====================================================
-
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif", ### HUB PREMIER PPV ###
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels4/620788.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983", HUB PREMIER 2 ᵁᴴᴰ ³⁸⁴⁰ᴾ
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels4/620787.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983", HUB PREMIER 1 4K
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels4/620786.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983", HUB PREMIER 2 4K
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels4/620785.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983", HUB PREMIER 3 4K
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels4/620784.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983", HUB PREMIER 4 4K
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels4/620783.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983", HUB PREMIER 5 4K
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels4/620782.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983", HUB PREMIER 6 4K
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels4/620781.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983", HUB PREMIER 7 4K
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels4/620780.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983", HUB PREMIER 8 4K
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels4/620779.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983", HUB PREMIER 9 4K
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels4/620778.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983", HUB PREMIER 10 4K
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels4/620777.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983", HUB PREMIER 11 4K
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels4/620776.m3u8
-
-
-=====================================================
-
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png", ##### UK HUB SPORTS #####
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/1032530.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER1.png", UK| HUB PREMIER 1 FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/1032529.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER2.png", UK| HUB PREMIER 2 FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/1032528.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER2.png", UK| HUB PREMIER 2 UHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/1032518.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER3.png", UK| HUB PREMIER 3 FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/1032527.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER4.png", UK| HUB PREMIER 4 FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/1032526.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER5.png", UK| HUB PREMIER 5 FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/1032525.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER6.png", UK| HUB PREMIER 6 FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/1032524.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER7.png", UK| HUB PREMIER 7 FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/1032523.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER8.png", UK| HUB PREMIER 8 FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/1032522.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER9.png", UK| HUB PREMIER 9 FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/1032521.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER10.png", UK| HUB PREMIER 10 FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/1032520.m3u8
-#EXTINF:-1 group-title="UK| HUB PREMIER PPV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER11.png", UK| HUB PREMIER 11 FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/1032519.m3u8
 
 
 
