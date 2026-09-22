@@ -386,4 +386,47 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MUTV.png", UK| MUTV FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/45324.m3u8
 
+=====================================================
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png", UK| LFC HEVC FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1458774.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png", UK| LFC HEVC HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1458786.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MUTV.png", UK| MUTV HEVC FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1458773.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MUTV.png", UK| MUTV HEVC HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1458772.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MUTV.png", UK| EPL MANCHESTER UTD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/988356.m3u8
+
+=====================================================
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png", ##### SKY SPORTS FHD #####
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/230681.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://103.176.90.92/images/30500.png", UK| SKY SPORTS + FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/30500.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://103.176.90.92/images/30501.png", UK| SKY SPORTS ACTION FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/30501.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://103.176.90.92/images/30502.png", UK| SKY SPORTS CRICKET FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/30502.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://103.176.90.92/images/30499.png", UK| SKY SPORTS F1 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/30499.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://103.176.90.92/images/30498.png", UK| SKY SPORTS FOOTBALL FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/30498.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://103.176.90.92/images/30497.png", UK| SKY SPORTS GOLF FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/30497.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://103.176.90.92/images/30496.png", UK| SKY SPORTS MAIN EVENT FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/30496.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://103.176.90.92/images/30495.png", UK| SKY SPORTS MIX FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/30495.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://103.176.90.92/images/30494.png", UK| SKY SPORTS NEWS FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/30494.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://103.176.90.92/images/30493.png", UK| SKY SPORTS PL FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/30493.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://103.176.90.92/images/77373.png", UK| SKY SPORTS RACING FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/77373.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPOIRTSTENNIS.png", UK| SKY SPORTS TENNIS FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1454232.m3u8
+
+
 
