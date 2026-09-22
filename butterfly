@@ -373,6 +373,17 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTSEXTRA4.png", GR| NOVASPORTS EXTRA 4
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432144.m3u8
 
+=====================================================
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MANCHESTERUNITED.png", UK| MANCHESTER UNITED HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/725954.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/CHELSEA.png", UK| CHELSEA TV HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/45327.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png", UK| LFC TV FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/910647.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png", UK| LFC TV
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/45268.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MUTV.png", UK| MUTV FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/45324.m3u8
 
 
