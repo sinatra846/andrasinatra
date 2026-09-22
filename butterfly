@@ -228,11 +228,6 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/244
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/244128.m3u8
 
 
-
-
-
-
-
 =====================================================
 
 
@@ -268,7 +263,115 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/154882.m3u8
 
 
+=====================================================
 
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/GREECE.png", ##### [GR] NOVA SPORTS #####
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/307807.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTS1.png", GR| NOVASPORTS 1 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432175.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTS1.png", GR| NOVASPORTS 1 (B1)
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432174.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTS1.png", GR|NOVASPORTS 1 (B2)
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432173.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTS1.png", GR| NOVASPORT 1 UHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/534451.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTS1.png", GR| NOVASPORTS 1 UHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/534471.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTS2.png", GR| NOVASPORTS 2 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432172.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTS2.png", GR| NOVASPORTS 2 (B1)
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432171.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTS2.png", GR| NOVASPORTS 2 (B2)
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432170.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTS2.png", GR| NOVASPORTS 2 UHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/534470.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTS2.png", GR| NOVASPORT 2 UHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/534450.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTS3.png", GR| NOVASPORTS 3 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432169.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTS3.png", GR| NOVASPORTS 3 (B1)
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432168.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTS3.png", GR| NOVASPORTS 3 (B2)
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432167.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTS3.png", GR| NOVASPORTS 3 UHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/534469.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTS3.png", GR| NOVASPORT 3 UHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/534449.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTS4.png", GR| NOVASPORTS 4 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432166.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTS4.png", GR| NOVASPORTS 4 (B1)
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432165.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTS4.png", GR| NOVASPORTS 4 (B2)
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432164.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTS4.png", GR| NOVASPORT 4 UHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/534448.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTS4.png", GR| NOVASPORTS 4 UHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/534468.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTS5.png", GR| NOVASPORTS 5 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432163.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTS5.png", GR| NOVASPORTS 5  (B1)
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432162.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTS5.png", GR| NOVASPORTS 5 (B2)
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432161.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTS5.png", GR| NOVASPORTS 5 UHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/534467.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTS5.png", GR| NOVASPORT 5 UHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/534447.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTS6.png", GR| NOVASPORTS 6 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432160.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTS6.png", GR| NOVASPORTS 6 (B1)
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432159.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTS6.png", GR| NOVASPORTS 6 (B2)
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432158.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTS6.png", GR| NOVA SPORT 6 UHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/719350.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTSPRIME.png", GR| NOVASPORTS PRIME
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432157.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTSPRIME.png", GR| NOVASPORTS PRIME (B1)
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432156.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTSPRIME.png", GR| NOVASPORTS PRIME B2
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432155.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTSPRIME.png", GR| NOVASPORT PRIME UHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/719352.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTSSTART.png", GR| NOVASPORTS START
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432154.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTSSTART.png", GR| NOVASPORTS START (B1)
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432153.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTSSTART.png", GR| NOVASPORTS START (B2)
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432152.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTSSTART.png", GR| NOVASPORT START UHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/719351.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTSPREMIERLEAGUE.png", GR|NOVASPORTS PREMIER LEAGUE
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432151.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTSPREMIERLEAGUE.png", GR| NOVASPORT PREMIER LEAGUE
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/988193.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTSPREMIERLEAGUE.png", GR| NOVASPORTS PREMIER LEAGUE  (B1)
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432150.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTSPREMIERLEAGUE.png", GR|NOVASPORTS PREMIER LEAGUE (B2)
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432149.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTSNEWS.png", GR| NOVASPORTS NEWS
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432148.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTSNEWS.png", GR| NOVASPORT NEWS UHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/534446.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/GREECE.png", #### [GR] NOVA PPV ####
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/534529.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTSEXTRA1.png", GR| NOVASPORT EXTRA 1
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1137587.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTSEXTRA2.png", GR| NOVASPORT EXTRA 2
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1137586.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTSEXTRA3.png", GR| NOVASPORT EXTRA 3
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1137585.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTSEXTRA4.png", GR| NOVASPORT EXTRA 4
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1137584.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTSEXTRA1.png", GR| NOVASPORTS EXTRA 1
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432147.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTSEXTRA2.png", GR| NOVASPORTS EXTRA 2
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432146.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTSEXTRA3.png", GR| NOVASPORTS EXTRA 3
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432145.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/NOVASPORTSEXTRA4.png", GR| NOVASPORTS EXTRA 4
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1432144.m3u8
 
 
 
