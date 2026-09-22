@@ -220,6 +220,19 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 #EXTINF:-1 group-title="EPL" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 11.png", ┃UK┃ HUB PREMIER 11 FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1314087.m3u8
 
+
+#EXTINF:-1 tvg-uid="cabff78b4d3dde7041c3d611b97f1978" data-source="Sports7November" group-title="EPL" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg", ┃FI┃ V SPORT 1 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/244121.m3u8
+
+#EXTINF:-1 tvg-uid="246eaa249ae4fc4609dc3f88677395bc" data-source="Sports7November" group-title="EPL" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg", ┃FI┃ VIASAT SPORT PREMIUM HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/244128.m3u8
+
+
+
+
+
+
+
 =====================================================
 
 
@@ -235,7 +248,7 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 =====================================================
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/BULGARIA/MAXONE.png", BG| MAX ONE FHD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/BULGARIA/MAXONE.png", |BG| MAX ONE FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/2109895.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/logos/83260.png", BG| MAX SPORT 1 FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/83260.m3u8
@@ -253,8 +266,6 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/83257.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/logos/154882.png", BG| MAX SPORT 4 HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/154882.m3u8
-
-
 
 
 
