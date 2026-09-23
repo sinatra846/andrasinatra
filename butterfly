@@ -375,19 +375,6 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 
 =====================================================
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MANCHESTERUNITED.png", UK| MANCHESTER UNITED HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/725954.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/CHELSEA.png", UK| CHELSEA TV HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/45327.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png", UK| LFC TV FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/910647.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png", UK| LFC TV
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/45268.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MUTV.png", UK| MUTV FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/45324.m3u8
-
-=====================================================
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png", UK| LFC HEVC FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1458774.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png", UK| LFC HEVC HD
@@ -427,6 +414,37 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/77373.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPOIRTSTENNIS.png", UK| SKY SPORTS TENNIS FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/1454232.m3u8
+
+
+=====================================================
+
+
+#EXTINF:-1 group-title="WORLD LIVE SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT NEWS
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1917638.m3u8
+#EXTINF:-1 group-title="WORLD LIVE SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT FOOTBALL
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1917622.m3u8
+#EXTINF:-1 group-title="WORLD LIVE SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT CRICKET
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1917637.m3u8
+#EXTINF:-1 group-title="WORLD LIVE SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT MAIN EVENT
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1917636.m3u8
+#EXTINF:-1 group-title="WORLD LIVE SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT ACTION
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1917635.m3u8
+#EXTINF:-1 group-title="WORLD LIVE SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT F1
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1917634.m3u8
+#EXTINF:-1 group-title="WORLD LIVE SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT GOLF
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1917633.m3u8
+#EXTINF:-1 group-title="WORLD LIVE SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT MIX
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1917632.m3u8
+#EXTINF:-1 group-title="WORLD LIVE SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT PLUS
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1917631.m3u8
+#EXTINF:-1 group-title="WORLD LIVE SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT PRIME LIGE
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1917630.m3u8
+#EXTINF:-1 group-title="WORLD LIVE SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT RACING
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1917629.m3u8
+#EXTINF:-1 group-title="WORLD LIVE SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT TENNIS
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1917628.m3u8
+
+
 
 
 
