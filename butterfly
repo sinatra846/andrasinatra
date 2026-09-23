@@ -474,6 +474,29 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1235857.m3u8
 
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://57.128.182.77:8080/USA/USANETWORK.png", |US| USA NETWORK
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/13099.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="", CAR -|US| USA NETWORK | ᴴᴰ
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/276305.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://103.176.90.95/images/174998.png",|U.S| USA NETWORK HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/174998.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://103.176.90.95/images/174999.png",|U.S| USA NETWORK WEST HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/174999.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/USA/45466.png",|US| USA NETWORK HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/45466.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/USA/188997.png",|US| USA NETWORK EAST HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/188997.m3u8
+
+
+
+
+
+
 
 
 
