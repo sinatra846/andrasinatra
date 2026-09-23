@@ -492,6 +492,34 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/USA/188997.png",|US| USA NETWORK EAST HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/188997.m3u8
 
+#EXTINF:-1 group-title="|AS| ✪ SPORTS" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png", |SP| STAR SPORTS SELECT 1 ᴴᴰ
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/276734.m3u8
+
+#EXTINF:-1 group-title="|AS| ✪ SPORTS" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png", |SP| STAR SPORTS SELECT 2 ᴴᴰ
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/276735.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png", |SP| Hub Sports 1
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/280822.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png", |SP| Hub Sports 2
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/280823.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png", |SP| Hub Sports 3
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/280824.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png", |SP| Hub Sports 4
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/280825.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png", |SP| Hub Sports 5
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/280826.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
