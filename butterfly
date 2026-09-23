@@ -419,30 +419,59 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 =====================================================
 
 
-#EXTINF:-1 group-title="WORLD LIVE SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT NEWS
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT NEWS
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1917638.m3u8
-#EXTINF:-1 group-title="WORLD LIVE SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT FOOTBALL
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT FOOTBALL
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1917622.m3u8
-#EXTINF:-1 group-title="WORLD LIVE SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT CRICKET
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT CRICKET
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1917637.m3u8
-#EXTINF:-1 group-title="WORLD LIVE SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT MAIN EVENT
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT MAIN EVENT
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1917636.m3u8
-#EXTINF:-1 group-title="WORLD LIVE SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT ACTION
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT ACTION
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1917635.m3u8
-#EXTINF:-1 group-title="WORLD LIVE SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT F1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT F1
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1917634.m3u8
-#EXTINF:-1 group-title="WORLD LIVE SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT GOLF
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT GOLF
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1917633.m3u8
-#EXTINF:-1 group-title="WORLD LIVE SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT MIX
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT MIX
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1917632.m3u8
-#EXTINF:-1 group-title="WORLD LIVE SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT PLUS
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT PLUS
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1917631.m3u8
-#EXTINF:-1 group-title="WORLD LIVE SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT PRIME LIGE
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT PRIME LIGE
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1917630.m3u8
-#EXTINF:-1 group-title="WORLD LIVE SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT RACING
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT RACING
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1917629.m3u8
-#EXTINF:-1 group-title="WORLD LIVE SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT TENNIS
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png", UK| SKY SPORT TENNIS
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1917628.m3u8
+
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://103.176.90.92/images/1235934.png", DE| SKY SPORT TOP EVENT HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1235934.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://103.176.90.92/images/1235927.png", DE| SKY SPORT PREMIER LEAGUE FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1235927.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://103.176.90.92/images/1235920.png", DE| SKY SPORT PREMIER LEAGUE HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1235920.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://103.176.90.92/images/1235913.png", DE| SKY SPORT MIX FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1235913.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://103.176.90.92/images/1235906.png", DE| SKY SPORT MIX HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1235906.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://103.176.90.92/images/1235899.png", DE| SKY SPORT F1 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1235899.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://103.176.90.92/images/1235892.png", DE| SKY SPORT F1 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1235892.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://103.176.90.92/images/1235885.png", DE| SKY SPORT GOLF FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1235885.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://103.176.90.92/images/1235878.png", DE| SKY SPORT GOLF HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1235878.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://103.176.90.92/images/1235871.png", DE| SKY SPORT TENNIS FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1235871.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://103.176.90.92/images/1235864.png", DE| SKY SPORT TENNIS HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1235864.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://103.176.90.92/images/1235857.png", DE| SPORT 1 FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1235857.m3u8
 
 
 
