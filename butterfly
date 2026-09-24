@@ -510,9 +510,33 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/280826.m3u8
 
 
+=====================================================
 
 
-
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://57.128.182.77:8080/0tv_logo/3511.png", |NL| ESPN  1 ᴴᴰ
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/4848.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://57.128.182.77:8080/USA/ESPNUHD.png", |NL| ESPN 1
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/4849.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://57.128.182.77:8080/0tv_logo/3511.png", |NL| ESPN  1 H265
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/4847.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://57.128.182.77:8080/0tv_logo/3512.png", |NL| ESPN  2 ᴴᴰ
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/4845.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://57.128.182.77:8080/0tv_logo/3512.png", |NL| ESPN  2
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/4846.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://57.128.182.77:8080/0tv_logo/3512.png", |NL| ESPN  2 H265
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/4844.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://57.128.182.77:8080/USA/ESPNUHD.png", |NL| ESPN  3 ᴴᴰ
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/4842.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://57.128.182.77:8080/USA/ESPNUHD.png", |NL| ESPN  3
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/4843.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://57.128.182.77:8080/USA/ESPNUHD.png", |NL| ESPN  3 H265
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/4841.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://57.128.182.77:8080/USA/ESPNUHD.png", |NL| ESPN  4 ᴴᴰ
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/4839.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://57.128.182.77:8080/USA/ESPNUHD.png", |NL| ESPN  4
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/4840.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://57.128.182.77:8080/USA/ESPNUHD.png", |NL| ESPN  4 H265
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/4838.m3u8
 
 
 
