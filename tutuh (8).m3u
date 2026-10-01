@@ -145,35 +145,43 @@ https://pixeldrain.com/api/file/9Qrw8DGz?download
 #EXTINF:-1 tvg-id="auto.theapartment" tvg-logo="https://cdn.bingebase.com/seasons/260510/posters/fE8vX9aeIv7qkoC6ldcEbZA4Trk.webp" group-title="THE APARTMENT JOB",EPS 12
 https://pixeldrain.com/api/file/RaST4xKs?download
 
-
-
 =========================
 
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/V_KOREAN.png?raw=true",VOD DRAMA KOREA
 
 #EXTINF:-1 tvg-id="auto.made" tvg-logo="https://imageio.forbes.com/specials-images/imageserve/6aa18a1dc81b5dc8d74f27c9/MadeInKoreaSeason2-poster-art/0x0.jpg?height=1264&width=480&fit=bounds" group-title="MADE IN KOREA SEASON 2",EPS 1
 https://pixeldrain.com/api/file/ytcBuLDA?download
-
 #EXTINF:-1 tvg-id="auto.made" tvg-logo="https://imageio.forbes.com/specials-images/imageserve/6aa18a1dc81b5dc8d74f27c9/MadeInKoreaSeason2-poster-art/0x0.jpg?height=1264&width=480&fit=bounds" group-title="MADE IN KOREA SEASON 2",EPS 2
 https://pixeldrain.com/api/file/vN2CGQ5C?download
-
 #EXTINF:-1 tvg-id="auto.made" tvg-logo="https://imageio.forbes.com/specials-images/imageserve/6aa18a1dc81b5dc8d74f27c9/MadeInKoreaSeason2-poster-art/0x0.jpg?height=1264&width=480&fit=bounds" group-title="MADE IN KOREA SEASON 2",EPS 3
 https://pixeldrain.com/api/file/fCGtsQi5?download
-
 #EXTINF:-1 tvg-id="auto.made" tvg-logo="https://imageio.forbes.com/specials-images/imageserve/6aa18a1dc81b5dc8d74f27c9/MadeInKoreaSeason2-poster-art/0x0.jpg?height=1264&width=480&fit=bounds" group-title="MADE IN KOREA SEASON 2",EPS 4
 https://pixeldrain.com/api/file/J7VVzfJr?download
-
 #EXTINF:-1 tvg-id="auto.made" tvg-logo="https://imageio.forbes.com/specials-images/imageserve/6aa18a1dc81b5dc8d74f27c9/MadeInKoreaSeason2-poster-art/0x0.jpg?height=1264&width=480&fit=bounds" group-title="MADE IN KOREA SEASON 2",EPS 5
 https://pixeldrain.com/api/file/VKfXPdCA?download
-
 #EXTINF:-1 tvg-id="auto.made" tvg-logo="https://imageio.forbes.com/specials-images/imageserve/6aa18a1dc81b5dc8d74f27c9/MadeInKoreaSeason2-poster-art/0x0.jpg?height=1264&width=480&fit=bounds" group-title="MADE IN KOREA SEASON 2",EPS 6
 https://pixeldrain.com/api/file/MQfmE3vo?download
 
+=========================
 
+#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/V_KOREAN.png?raw=true",VOD DRAMA KOREA
 
-
-
-
+#EXTINF:-1 tvg-id="auto.mousetrap" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4-t7d00E4e6x5OqtkTFm6Phm686vaNmzNjwyJbyhNdA&s" group-title="MOUSETRAP",EPS 1
+https://pixeldrain.com/api/file/B7wC19ba?download
+#EXTINF:-1 tvg-id="auto.mousetrap" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4-t7d00E4e6x5OqtkTFm6Phm686vaNmzNjwyJbyhNdA&s" group-title="MOUSETRAP",EPS 2
+https://pixeldrain.com/api/file/mJJiT2JX?download
+#EXTINF:-1 tvg-id="auto.mousetrap" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4-t7d00E4e6x5OqtkTFm6Phm686vaNmzNjwyJbyhNdA&s" group-title="MOUSETRAP",EPS 3
+https://pixeldrain.com/api/file/rN768vMc?download
+#EXTINF:-1 tvg-id="auto.mousetrap" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4-t7d00E4e6x5OqtkTFm6Phm686vaNmzNjwyJbyhNdA&s" group-title="MOUSETRAP",EPS 4
+https://pixeldrain.com/api/file/sNon2o73?download
+#EXTINF:-1 tvg-id="auto.mousetrap" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4-t7d00E4e6x5OqtkTFm6Phm686vaNmzNjwyJbyhNdA&s" group-title="MOUSETRAP",EPS 5
+https://pixeldrain.com/api/file/pTwwYuWD?download
+#EXTINF:-1 tvg-id="auto.mousetrap" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4-t7d00E4e6x5OqtkTFm6Phm686vaNmzNjwyJbyhNdA&s" group-title="MOUSETRAP",EPS 6
+https://pixeldrain.com/api/file/ScPhTGDK?download
+#EXTINF:-1 tvg-id="auto.mousetrap" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4-t7d00E4e6x5OqtkTFm6Phm686vaNmzNjwyJbyhNdA&s" group-title="MOUSETRAP",EPS 7
+https://pixeldrain.com/api/file/xeHN1Yes?download
+#EXTINF:-1 tvg-id="auto.mousetrap" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4-t7d00E4e6x5OqtkTFm6Phm686vaNmzNjwyJbyhNdA&s" group-title="MOUSETRAP",EPS 7
+https://pixeldrain.com/api/file/7ujTnMFm?download
 
 
 
