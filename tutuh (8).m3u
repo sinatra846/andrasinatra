@@ -209,12 +209,15 @@ https://pixeldrain.com/api/file/k4vJFcnC?download
 https://pixeldrain.com/api/file/i5FjUqDN?download
 
 
+=========================
 
+#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/V_KOREAN.png?raw=true",VOD DRAMA KOREA
 
+#EXTINF:-1 tvg-id="auto.thehaunted" tvg-logo="https://images.justwatch.com/poster/330115674/s718/the-haunted-palace.jpg" group-title="THE HAUNTED PALACE",EPS 1
+https://pixeldrain.com/api/file/BMvftVbJ?download
 
-
-
-
+#EXTINF:-1 tvg-id="auto.thehaunted" tvg-logo="https://images.justwatch.com/poster/330115674/s718/the-haunted-palace.jpg" group-title="THE HAUNTED PALACE",EPS 1
+https://pixeldrain.com/api/file/BouhaiEk?download
 
 
 
